@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Flutter Tests",
+			"type": "shell",
+			"command": "C:\\Users\\KIIT\\Desktop\\flutter\\bin\\flutter.bat",
+			"args": [
+				"test"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart-analyze"
+			],
+			"group": "test"
+		}
+	]
+}
